@@ -75,7 +75,6 @@ parso==0.7.0
 pathspec==0.7.0
 patsy==0.5.3
 pep8==1.7.1
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 phik==0.12.3
 pkginfo==1.7.0
 ply==3.11
