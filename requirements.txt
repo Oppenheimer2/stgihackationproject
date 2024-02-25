@@ -1,6 +1,6 @@
 
 asgiref==3.6.0
-libcurl
+curl
 dj-database-url==2.1.0
 Django==4.2.6
 djangorestframework==3.14.0
