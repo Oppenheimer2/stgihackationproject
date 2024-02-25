@@ -81,7 +81,6 @@ ply==3.11
 protobuf==4.24.3
 psycopg2-binary==2.9.9
 pyarrow==13.0.0
-pycodestyle @ file:///home/ktietz/src/ci_mi/pycodestyle_1612807597675/work
 pycosat==0.6.3
 pycurl==7.43.0.6
 pydantic==1.10.6
